@@ -1,0 +1,36 @@
+mainshortcutitem: 378
+customshortcutitem: 341
+
+postac:
+  one:
+    title: Sila
+    command: '/pomoc'
+  two:
+    title: Zwinnosc
+    command: '/pomoc'
+  three: 
+    title: Obrona
+    command: '/pomoc'
+  four:
+    title: Zdrowie
+    command: '/pomoc'
+  five:
+    title: ''
+    command: '/pomoc'
+  six:
+    title: ''
+    command: '/pomoc'
+  seven:
+    title: Zadania
+    command: '/pomoc'
+  eight:
+    title: ''
+    command: '/pomoc'
+  nine:
+    title: Statystyki
+    command: '/pomoc'
+    
+automsg:
+  - "&ajeden"
+  - "&2dwa"
+  - "&3trzy"

@@ -1,0 +1,25 @@
+name: XavernusRPG
+version: 0.2
+author: DeMoNeK_
+main: demonek.xavernusrpg.core.Main 
+description: Jest to CORE - glowny plugin serwera XavernusRPG.
+commands:
+    
+  menu:
+    description: Otwiera menu admina XavernusRPG.
+    usage: /menu
+    aliases: m
+
+  pomoc:
+    description: Otwiera menu gracza.
+    usage: /pomoc
+    aliases: misja, zadanie  
+  chat:
+  bc:
+  autorzy:
+  enchant:
+  is:
+  gildia:
+  czapka:
+  msg:
+  list:
